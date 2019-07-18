@@ -1,0 +1,24 @@
+body {
+    background-image:url("./img/fondo.jpg");
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-attachment:fixed;
+	-o-background-size: 100% 100%, auto;
+	-moz-background-size: 100% 100%, auto;
+	-webkit-background-size: 100% 100%, auto;
+	background-size: 100% 100%, auto;
+}
+
+.divfondo{
+    
+  
+    margin-top: 45%;
+    border-radius: 15px;
+    background-color: aliceblue;
+    background-color: rgba(255, 255, 255, 0.8);
+ 
+  
+}
+.contenedor1{
+   padding: 30px;
+}
